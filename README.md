@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Computer Science Student • Web Developer • Lifelong Learner
+### Computer Science Student • Lifelong Learner
 
 Building software, exploring AI, and continuously improving my skills through real-world projects.
 
@@ -47,42 +47,18 @@ Building software, exploring AI, and continuously improving my skills through re
 
 ---
 
-## 📌 Featured Projects
-
-### 🎮 Tic Tac Toe AI
-A modern Tic Tac Toe game featuring:
-- Human vs Human mode
-- Human vs Computer mode
-- Interactive UI
-- Smart gameplay logic
-
-### 🏪 SwiftPOS
-An offline Point of Sale system built to manage:
-- Products
-- Sales
-- Inventory
-- Business operations
-
-### 🍽️ Restaurant Landing Page
-A responsive restaurant website focused on:
-- Clean UI/UX
-- Modern design
-- Mobile responsiveness
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahzebalipirzada&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzebalipirzada&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzebalipirzada&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
@@ -99,7 +75,7 @@ A responsive restaurant website focused on:
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/shahzebalipirzada)
 
 <!-- Add LinkedIn, Portfolio, Twitter, or Website links here -->
 
