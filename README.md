@@ -1,4 +1,4 @@
-# Hi, I'm Shahzeb Ali 👋
+# Shahzeb Ali Pirzada
 
 <div align="center">
 
